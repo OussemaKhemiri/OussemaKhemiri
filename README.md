@@ -52,11 +52,12 @@
 
 <div align="center">
   
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true)
+![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&hide_rank=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=radical) |
+### 📈 Contribution Graph (All Time)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=github-dark&area=true&hide_border=true)
 
 </div>
 
