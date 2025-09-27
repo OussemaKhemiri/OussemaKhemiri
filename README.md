@@ -57,7 +57,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&hide_border=true)
 
 ### 📈 Contribution Graph (All Time)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=github-dark&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=radical&area=true&hide_border=true&custom_title=Oussema's%20GitHub%20Activity%20Graph)
 
 </div>
 
