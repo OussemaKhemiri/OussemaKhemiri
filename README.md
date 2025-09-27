@@ -55,7 +55,7 @@
 
 | | |
 | :---: | :---: |
-| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=ambient_gradient&hide_title=true&count_private=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&custom_title=Oussema's%20GitHub%20Stats&line_height=30) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=ambient_gradient&hide_border=true) |
+| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=ambient_gradient&hide_title=false&count_private=true&rank_icon=github&include_all_commits=true&show=prs_merged&custom_title=Oussema's%20GitHub%20Stats&line_height=30) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=ambient_gradient&hide_border=true) |
 
 ### 📈 Contribution Graph (All Time)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=ambient_gradient&area=true&hide_border=true&custom_title=Oussema's%20GitHub%20Activity%20Graph)
