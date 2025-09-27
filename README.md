@@ -55,7 +55,7 @@
 
 | | |
 | :---: | :---: |
-| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=catppuccin_latte&hide_title=true&hide=prs,issues&count_private=true&hide_rank=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=catppuccin_latte&hide_border=true) |
+| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&rank_icon=github&theme=catppuccin_latte&hide_title=true&hide=prs,issues&count_private=true&hide_rank=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=catppuccin_latte&hide_border=true) |
 
 ### 📈 Contribution Graph (All Time)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=catppuccin_latte&area=true&hide_border=true&custom_title=Oussema's%20GitHub%20Activity%20Graph)
