@@ -42,6 +42,7 @@
 ### **Languages & Platforms**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-1B75BB?style=for-the-badge&logo=javafx&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MQL5](https://img.shields.io/badge/MQL5-019539?style=for-the-badge&logo=meta&logoColor=white)
@@ -52,9 +53,8 @@
 
 <div align="center">
   
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&hide_rank=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&hide_border=true)
+| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true&hide_rank=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&width=400) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&hide_border=true) |
+| :--- | :--- |
 
 ### 📈 Contribution Graph (All Time)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=radical&area=true&hide_border=true&range=all_time&custom_title=Oussema's%20GitHub%20Activity%20Graph)
