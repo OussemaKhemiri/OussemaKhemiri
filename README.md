@@ -54,40 +54,9 @@
   
 ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaKhemiri&layout=compact&theme=radical&hide_title=true)
-
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&hide_border=true)
 
------------------------------
-
-| | |
-| :---: | :---: |
-| ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaKhemiri&layout=compact&theme=radical&hide_title=true&hide=html,css) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=radical) |
-
-
------------------
-
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs,issues&line_height=24)
-
-**Current Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&mode=weekly)
-
-
-### 📈 Coding Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical&background=0D1117)
-
-### 🔧 Weekly Activity
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&count_private=true&hide=prs,issues&show=reviews,discussions_started)
-
-
-
-| Stat Type | Display |
-| :--- | :--- |
-| **Overview** | ![Profile Details](https://github-readme-stats.vercel.app/api?username=OussemaKhemiri&show_icons=true&theme=radical&hide_title=true) |
-| **Contribution Streak** | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OussemaKhemiri&theme=radical) |
-| **Weekly Activity** | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=react-dark) |
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OussemaKhemiri&theme=radical) |
 
 </div>
 
